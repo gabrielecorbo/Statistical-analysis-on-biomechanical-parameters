@@ -372,7 +372,7 @@ qqline( g2_post_bc$res )
 ##MARC
 
 # carico il dataset
-scoliosi2 = read.csv("ladrata.csv", header = TRUE)
+scoliosi2 = read.csv("data.csv", header = TRUE)
 
 temp_var <- predict(gp2, interval="confidence") 
 
