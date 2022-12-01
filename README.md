@@ -1,4 +1,4 @@
-# Analisi del dataset *column_3C_weka.csv*
+# Statistical analysis on biomechanical parameters
 
 Progetto per il corso di **Modelli e Metodi dell'Inferenza Statistica**.
 
