@@ -15,4 +15,4 @@ Linear regression and ANOVA on a dataset containing angles of various parts of t
 
 ## Output
 
-The `presentation.pdf` is in the `presentazione` folder.
+The `presentation.pdf` is in the `presentation` folder.
