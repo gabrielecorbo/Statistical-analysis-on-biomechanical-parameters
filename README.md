@@ -15,6 +15,4 @@ Linear regression and ANOVA on a dataset containing angles of various parts of t
 
 ## Output
 
-The web-app [is available here](https://share.streamlit.io/marcolucchini/fintech-project/main/app.py).
-
 The `presentation.pdf` is in the `presentazione` folder.
